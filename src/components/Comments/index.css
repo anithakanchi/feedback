@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: white;
+  height: 100vh;
+  padding: 20px;
+}
+.button {
+  color: white;
+  background-color: #0284c7;
+  border-radius: 5px;
+  padding: 5px;
+  border-width: 0px;
+}
+.top-portion {
+  display: flex;
+  flex-direction: row;
+}
+.comments {
+  color: white;
+  background-color: #0284c7;
+  border-radius: 5px;
+  padding: 5px;
+  border-width: 0px;
+}
